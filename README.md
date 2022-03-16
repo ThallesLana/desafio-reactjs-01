@@ -1,6 +1,6 @@
 # ✅ Desafio 01 - Rocketseat Ignite ReactJS - To-do List
 
-### Nesse desafio, foi necessário criar uma aplicação onde o seu principal objetivo é uma To-Do List para treinar um pouco mais sobre manipulação do estado no React.
+### Nesse desafio será desenvolvido uma aplicação onde o seu principal objetivo é refatorar uma página para listagem de filmes de acordo com gênero. 
 ### Abaixo é listado o que deve ser feito na tarefa:
 
 - Adicionar uma nova tarefa
