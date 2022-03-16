@@ -1,5 +1,7 @@
 # ✅ Desafio 01 - Rocketseat Ignite ReactJS - To-do List
 
+![To do](https://user-images.githubusercontent.com/57325727/158611292-97f31d62-7858-4552-a6da-025cbd74206d.png)
+
 ### Nesse desafio será desenvolvido uma aplicação onde o seu principal objetivo é refatorar uma página para listagem de filmes de acordo com gênero. 
 ### Abaixo é listado o que deve ser feito na tarefa:
 
